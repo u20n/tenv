@@ -1,0 +1,3 @@
+lib/builds/*
+*.out
+lib/*
