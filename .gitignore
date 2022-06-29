@@ -1,3 +1,2 @@
-lib/builds/*
 *.out
-lib/*
+lib/**

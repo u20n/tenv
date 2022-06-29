@@ -1,11 +1,11 @@
+### t(est)env(ironment) || first
 
+## Drill
 
-> mkdir ./lib/
+*let "Host Node" = h; let "Client Node" = c;*
 
-> mkdir ./lib/builds/
-
-clone both uttu and core into `./lib/builds/`
-
-> make update
-
-> make (c, h, n)
+h & c initiate chain with shared trip and PoW requirements.
+c declares self to chain; h awaits c;
+h invites declared c to new server; c awaits invite;
+c & h converse;
+complete.
